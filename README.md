@@ -1,2 +1,2 @@
 # delta-demo
-this demo repo
+this demo repoo
